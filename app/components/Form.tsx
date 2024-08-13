@@ -36,7 +36,7 @@ function SubmitButton(){
                 Please Wait 
             </Button>
         ):(
-            <Button className="w-full" type="submit">Sign For Free</Button>
+            <Button  type="submit">Sign For Free</Button>
         )}
         </>
     )
